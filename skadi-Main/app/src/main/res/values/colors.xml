@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="processlist_text" />
+    <color name="processlist_color" />
+    <color name="title_text_color">#800080</color>
+    <color name="color_primary">#10a5f5</color>
+    <color name="title_bar_color">#0c71e0</color>
+    <color name="gray">#d3d3d3</color>
+    <color name="blue_skadi">#273270</color>
+    <color name="green">#a4c639</color>
+</resources>
